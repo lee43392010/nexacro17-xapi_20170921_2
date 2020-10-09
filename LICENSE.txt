@@ -5,9 +5,9 @@ TOBESOFT Co.,Ltd (hereunder called as "TOBESOFT") will license TOBESOFT X-API ְּ
 You agree to the terms of this agreement by clicking to "Agree" button or by installing, or using the X-API V1.X.
 If you do not agree to these terms, click to "Don??™t Agree" button or do not install, or use the X-API V1.X.
 Please read the terms of this agreement carefully before install or use the X-API V1.X.
-
+ 
 GRANT OF LICENSE.  This is a license agreement and NOT an agreement for sale.
-TOBESOFT licenses you to use X-API V1.X only as permitted by this Agreement.
+TOBESOFT licenses you to use X-API V1.X only as permitted by this Agreement.Gg
 
 COPYRIGHT.  The Licensed Program is a proprietary product of TOBESOFT and is protected by copyright law and international treaties.
 TOBESOFT retains title to and ownership of X-API V1.X, including the enclosed copies and each copy that you are authorized by this Agreement to make.
